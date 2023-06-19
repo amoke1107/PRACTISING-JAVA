@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class CountOccurences {
     public static void main(String[] args) {
-char[] letters = {'A', 'B', 'C','D','D'};
+char[] letters = {'A', 'B', 'C','D','D','D'};
 int count = countOccurences(letters, 'D');
         System.out.println(count);
     }
